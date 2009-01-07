@@ -1,0 +1,4 @@
+#external projects are used in this
+
+ * [http://groups.google.com/group/managedcommons?pli=1 Commons.GetOptions library]
+ * [http://dotnetwikibot.sourceforge.net/ DotNetWikiBot framework]
