@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="TableOfContentst.xsl" ?>
+<helpproject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="helpproject.xsd">
+  <map id="table-of-contents">
+    <topicref id="396038004846656" type="topic" modified="2008-06-04T15:21:31.562Z" icon="0" build="ALL" status="complete" href="Introduction"><caption translate="true">Introduction</caption>
+      <topicref id="396036090583145" type="topic" modified="2008-06-04T15:21:31.564Z" icon="0" build="ALL" status="complete" href="Welcome_topic"><caption translate="true">Welcome topic</caption></topicref>
+      <topicref id="396038021979463" type="topic" modified="2008-06-04T15:21:31.564Z" icon="0" build="ALL" status="complete" href="Second_topic"><caption translate="true">Second topic</caption></topicref>
+    </topicref>
+  </map>
+  <map id="invisible-topics">
+  </map>
+  <topics>
+    <topic id="Introduction" modified="2008-06-04T15:21:31.562Z" target="Main">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Introduction</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Enter topic text here.</text></para>
+      </body>
+    </topic>
+    <topic id="Second_topic" modified="2008-06-04T15:21:31.564Z" target="Main">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Second topic</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Enter topic text here.</text></para>
+      </body>
+    </topic>
+    <topic id="Welcome_topic" modified="2008-06-04T15:21:31.564Z" target="Main">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Welcome topic</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Enter topic text here.</text></para>
+      </body>
+    </topic>
+  </topics>
+  <baggage>
+  </baggage>
+</helpproject>

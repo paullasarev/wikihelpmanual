@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="200_ObjektSystem.xsl" ?>
+<helpproject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="helpproject.xsd">
+  <map id="table-of-contents">
+    <topicref id="396018154913335" type="topic" modified="2008-06-02T15:26:03.355Z" icon="0" build="ALL" status="complete" href="ДваПараграфа"><caption translate="true">ДваПараграфа</caption></topicref>
+    <topicref id="387443545551882" type="topic" modified="2007-06-05T17:19:12.925Z" icon="0" build="ALL" status="complete" href="Объектысистемы"><caption translate="true">Объекты системы</caption></topicref>
+    <topicref id="396026462253249" type="topic" modified="2008-06-03T10:21:28.601Z" icon="0" build="ALL" status="complete" href="Изображение_PNG"><caption translate="true">Изображение PNG</caption></topicref>
+    <topicref id="396025515754180" type="topic" modified="2008-06-03T12:48:58.639Z" icon="0" build="ALL" status="complete" href="Два_изображения_PNG"><caption translate="true">Два изображения PNG</caption></topicref>
+    <topicref id="396015984020340" type="topic" modified="2008-06-02T14:39:10.485Z" icon="0" build="ALL" status="complete" href="SimpleText"><caption translate="true">SimpleText</caption></topicref>
+    <topicref id="387443571821004" type="topic" modified="2007-06-06T16:32:51.488Z" icon="0" build="ALL" status="complete" href="Терминыиопределения"><caption translate="true">Термины и определения</caption></topicref>
+    <topicref id="396035717790209" type="topic" modified="2008-06-04T09:53:29.094Z" icon="0" build="ALL" status="complete" href="ИзображениеBMP"><caption translate="true">ИзображениеBMP</caption></topicref>
+  </map>
+  <map id="invisible-topics">
+  </map>
+  <topics>
+    <topic id="SimpleText" modified="2008-06-02T14:39:58.176Z" target="Main" helpcontext="2903">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">SimpleText</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Вот он, простой текст.</text></para>
+      </body>
+    </topic>
+    <topic id="Два_изображения_PNG" modified="2008-06-03T12:50:06.296Z" target="Main" helpcontext="2906">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Два изображения PNG</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Enter topic text here.</text></para>
+        <para styleclass="Normal"><image src="button_main.gif" scale="100.00%" styleclass="Image Caption"></image></para>
+        <para styleclass="Normal"></para>
+        <para styleclass="Normal"><image src="button_next.gif" scale="100.00%" styleclass="Image Caption"></image></para>
+        <para styleclass="Normal"></para>
+      </body>
+    </topic>
+    <topic id="ДваПараграфа" modified="2008-06-02T15:29:11.041Z" target="Main" helpcontext="2904">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ДваПараграфа</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Первый параграф</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Второй параграф</text></para>
+      </body>
+    </topic>
+    <topic id="Изображение_PNG" modified="2008-06-03T11:30:17.109Z" target="Main" helpcontext="2905">
+      <body>
+        <header>
+          <para styleclass="Heading1" style="margin-top:0px; margin-bottom:0px; line-height:1.50; "><text styleclass="Heading1" translate="true">Изображение PNG</text></para>
+        </header>
+        <para styleclass="Normal"><image src="VistaRunAsAdmin.png" scale="100.00%" styleclass="Image Caption"></image><text styleclass="Normal" translate="true">simple </text><text styleclass="Normal" translate="true">text.</text></para>
+      </body>
+    </topic>
+    <topic id="ИзображениеBMP" modified="2008-06-04T09:54:13.112Z" target="Main" helpcontext="2907">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ИзображениеBMP</text></para>
+        </header>
+        <para styleclass="Normal"><image src="0001.bmp" scale="100.00%" styleclass="Image Caption"></image></para>
+      </body>
+    </topic>
+    <topic id="Объектысистемы" modified="2007-08-09T17:28:01.120Z" target="Main" helpcontext="1000">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Объекты системы</text></para>
+        </header>
+        <para style="text-align:justify; text-indent:19px; margin-top:5px; "><text style="font-family:Verdana; font-size:9pt; color:#000000; " translate="true">Основными объектами программного комплекса &quot;Учет. Анализ. Управление&quot; являются:</text></para>
+        <list type="ul" listtype="bullet" formatstring="·" format-font="Symbol" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal">
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Справочники и &#160;классификаторы</text></li>
+        </list>
+        <list type="ul" listtype="bullet" formatstring="·" format-font="Symbol" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal">
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Константы</text></li>
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Документы</text></li>
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Обработки</text></li>
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Регистры</text></li>
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Отчеты</text></li>
+        </list>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Разумеется, что некоторые границы между данными определениями слегка размытые, т.к. во многих документах используются элементы обработок или отчетов, тем не менее попытаемся дать характеристику каждого объекта.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Справочник </text><text styleclass="Normal" translate="true">- хранилище информации, характеризующей тот или иной объект учета, будь то товар, сотрудник, бухгалтерский счет или статьи затрат. Справочник представлен в виде списка элементов, содержащих на одной или нескольких закладках определенные реквизиты. Элементы справочника могут быть представлены в виде иерархического списка, т.е. быть собранными в группы, которые в свою очередь входят в группы высшего порядка.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Классификатор </text><text styleclass="Normal" translate="true">- упрощенный вид справочника.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Константа</text><text styleclass="Normal" translate="true"> - установка системы, регулирующая параметры работы, определенная величина (сумма) или своего рода переключатель алгоритма расчета.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Документ </text><text styleclass="Normal" translate="true">- объект системы, предназначенный для фиксирования хозяйственной операции в программном комплексе. В самом простом варианте документ формирует проводки, используя элементы справочника и сумму, указанную в самом документе. Примером такого документа служит бухгалтерская справка, в которой указывается сумма, типовая операция (элемент справочника &quot;Типовые операции&quot;) и аналитику (элементы соответствующих справочников). Документы снабжены печатной формой, а во многих случаях и несколькими, как унифицированными, так и свободными.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Обработка </text><text styleclass="Normal" translate="true">- объект системы, предназначенный для фиксирования операций, параметры которых расчитываются на основании сформированных документов по определенному алгоритму. Классическим примером является расчет временных разниц, при применении на предприятии ПБУ-18, и одноименной обработки. Обычно обработка формирует бухгалтерскую справку и снабжена печатной формой. Кроме встроенных, система имеет возможность подключения внешних обработок, так называемых </text><text styleclass="Normal" style="font-weight:bold; " translate="true">модулей</text><text styleclass="Normal" translate="true">.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Регистр </text><text styleclass="Normal" translate="true">- объект системы, предназначенный для регистрации, систематизации и накопления данных по определенным ресурсам как по остаточному принципу, так и по движению. Регистры как таковые пользователю не видны, виден только итог, выводимый отчетами. Примерами регистров являются регистры &quot;Бухгалтерские счета&quot;,&quot; Реализация&quot;, &quot;Учет ОС и прочее.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Отчет </text><text styleclass="Normal" translate="true">- объект системы, предназначенный для вывода информации, полученной на основании данных регистров или их переработки. Отчеты снабжены печатными формами, унифицированными или свободными, и для формирования проводок не предназначены.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Как уже было сказано,часть функционала отчетов или обработок может использоваться в документах, поэтому отнесение объектов системы к той или иной категории слегка условно.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Более подробно об элементах системы будет изложено в соответствующих разделах.</text></para>
+        <para styleclass="Normal"></para>
+      </body>
+    </topic>
+    <topic id="Терминыиопределения" modified="2008-06-04T16:49:39.347Z" target="Main" helpcontext="2555">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Термины и определения</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">База данных</text><text styleclass="Normal" translate="true"> - совокупность текстовых и (или) цифровых данных, систематизированных по определенным правилам, предусматривающим общие принципы описания, хранения и манипулирования исходной информацией; объект авторского права. </text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Внешняя процедура (модуль)</text><text styleclass="Normal" translate="true"> - самостоятельная обработка, которая может быть запущена в процессе работы с комплексом &quot;Учет. Анализ. Управление&quot;.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Вход в систему</text><text styleclass="Normal" translate="true"> - процедура, обеспечивающая доступ к системе и идентифткацию известных ей (т.е. зарегистрированных) пользователей.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Журнал документов</text><text styleclass="Normal" translate="true"> - группа документов, имеющих общие реквизиты и отражающих сходные процессы. Все документы системы сгруппированы в журналы. Например, в журнале &quot;Платежные поручения&quot; отражаются документы &quot;Платежное поручение&quot;. </text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Ключ активации</text><text styleclass="Normal" translate="true"> - комбинация символов, необходимая для идентификации лицензионной копии программного обеспечения, дает право использовать новые релизы системы.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Контроль доступа </text><text styleclass="Normal" translate="true">- автоматическое отслеживание прав пользователя на просмотр, создание и изменение элементов справочников, документов и отчетов.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Контур</text><text styleclass="Normal" translate="true"> - комплекс журналов и элементов справочников, позволяющий реализовать набор функций.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Операция</text><text styleclass="Normal" translate="true"> - выполнение в рамках программного комплекса указанного пользователем действия с исходными данными. </text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Панель навигации</text><text styleclass="Normal" translate="true"> - инструмент для быстрого доступа к объектам конфигурации: справочникам, отчетам, обработкам, журналам документов. Любой объект конфигурации на панели навигации можно открыть двойным щелчком мыши в строке объекта.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Периодический реквизит</text><text styleclass="Normal" translate="true"> - реквизит, значение которого задается в пределах определенного срока. Наименования периодических реквизитов в системе выделяются синим цветом. При использовании данного реквизита в документе имеет значение дата документа.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Печатная форма (справочника, документа)</text><text styleclass="Normal" translate="true"> - установленный образец документа или справочника, шаблон для вывода на печать. Нередко подключение нескольких печатных форм к одному документу (в т.ч. унифицированных), а также подключение внешних (специализированных) печатных форм.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Проводка</text><text styleclass="Normal" translate="true"> - принятые в бухгалтерском учете обозначения дебетуемого и кредитуемого счетов и сумм в расчетных документах. После проведения документа данные по нему попадают в отчеты (если не выбрана функция &quot;Учитывать непроведенные документы&quot;)</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Программный комплекс</text><text styleclass="Normal" translate="true"> - совокупность объектов, данных, действий, тесно связанных и взаимодействующих между собой, образующих единую целостность. </text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Рабочий интервал</text><text styleclass="Normal" translate="true"> - временной интервал, данные по которому отражаются в журналах и используются при составлении отчетов.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Регистр правил</text><text styleclass="Normal" translate="true"> - блок обработки информации, который позволяет описать входную ситуацию и реакцию информационной системы в виде набора правил, каждое из которых задает значение детерминанта (описание входной ситуации, ключ выборки), и корня (результата). </text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Реквизиты</text><text styleclass="Normal" translate="true"> - составные элементы записей справочников и бухгалтерских документов, содержащие обязательные сведения, без которых бухгалтерские документы не могут служить основанием или подтверждением фактов хозяйственной деятельности. К сведениям, обязательно отражаемым в бухгалтерских документах, относятся: название документа, дата и место составления, содержание хозяйственной операции, сумма, количество и т.д.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Релиз</text><text styleclass="Normal" translate="true"> - версия системы. Каждая версия имеет свой порядковый номер, который можно просмотреть в константах системы. Номер релиза формируется автоматически, после установки очередного обновления. </text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Табличная часть (справочника, документа)</text><text styleclass="Normal" translate="true"> - таблица, которая содержит строки, характеризующие содержание данного справочника или документа. Например, табличная часть накладной на приход - это перечисление всех позиций товаров, оформляемых по данной накладной.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Точка актуальности</text><text styleclass="Normal" translate="true"> - дата до которой произведены расчеты регистров и граничная дата, до которой система выводит отчеты. Одновременно дата последнего документа, который произвел изменение информации в регистрах. Автоматически переносится при создании нового документа.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Уровень вложенности</text><text styleclass="Normal" translate="true"> - определяет количество уровней, которые можно создать в иерархической системе (справочнике).</text></para>
+        <para styleclass="Normal"><image src="10.png" scale="100.00%" styleclass="Image Caption"></image></para>
+      </body>
+    </topic>
+  </topics>
+  <baggage>
+  </baggage>
+</helpproject>

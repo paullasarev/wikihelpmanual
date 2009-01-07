@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]D:\DotNet\google\export\WikiHelpManual\HelpManualTest\Nunit.nunit</TopNode>
+  <SelectedNode>[0-1000]D:\DotNet\google\export\WikiHelpManual\HelpManualTest\Nunit.nunit</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]D:\DotNet\google\export\WikiHelpManual\HelpManualTest\Nunit.nunit" Expanded="true">
+      <Nodes>
+        <Node UniqueName="[0-1046]D:\DotNet\google\export\WikiHelpManual\HelpManualTest\bin\Debug\HelpManualTest.dll" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-1047]HelpManualTest" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1025]HelpManualTest.PageProperties" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-1035]HelpManualTest.PageProperties.ВложенныйНумерованныйСписок" />
+                    <Node UniqueName="[0-1034]HelpManualTest.PageProperties.ВложенныйСписок" />
+                    <Node UniqueName="[0-1028]HelpManualTest.PageProperties.ВнешняяСсылка" />
+                    <Node UniqueName="[0-1036]HelpManualTest.PageProperties.ВыделениеВСписке" />
+                    <Node UniqueName="[0-1038]HelpManualTest.PageProperties.ВыравниваниеЯчеекВТаблице" />
+                    <Node UniqueName="[0-1029]HelpManualTest.PageProperties.Жирный" />
+                    <Node UniqueName="[0-1031]HelpManualTest.PageProperties.ЖирныйКурсив" />
+                    <Node UniqueName="[0-1026]HelpManualTest.PageProperties.Курсив" />
+                    <Node UniqueName="[0-1033]HelpManualTest.PageProperties.НумерованныйСписок" />
+                    <Node UniqueName="[0-1040]HelpManualTest.PageProperties.ОбъектыCистемы" />
+                    <Node UniqueName="[0-1041]HelpManualTest.PageProperties.Подразделы" />
+                    <Node UniqueName="[0-1030]HelpManualTest.PageProperties.Подчеркивание" />
+                    <Node UniqueName="[0-1037]HelpManualTest.PageProperties.ПростаяТаблица" />
+                    <Node UniqueName="[0-1032]HelpManualTest.PageProperties.ПростойСписок" />
+                    <Node UniqueName="[0-1042]HelpManualTest.PageProperties.ПустойЗаголовок" />
+                    <Node UniqueName="[0-1043]HelpManualTest.PageProperties.СкобкиВЗаголовоке" />
+                    <Node UniqueName="[0-1027]HelpManualTest.PageProperties.Ссылка" />
+                    <Node UniqueName="[0-1039]HelpManualTest.PageProperties.ТаблицаДваПараграфаВЯчейке" />
+                  </Nodes>
+                </Node>
+                <Node UniqueName="[0-1001]HelpManualTest.ReadProjectTests" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-1017]HelpManualTest.ReadProjectTests.AddImagePrefixBMP" />
+                    <Node UniqueName="[0-1018]HelpManualTest.ReadProjectTests.AddImagePrefixPNG" />
+                    <Node UniqueName="[0-1011]HelpManualTest.ReadProjectTests.GetImageFileName" />
+                    <Node UniqueName="[0-1013]HelpManualTest.ReadProjectTests.GetImageFileName_ShortFilename" />
+                    <Node UniqueName="[0-1012]HelpManualTest.ReadProjectTests.GetImageFileNameBMP" />
+                    <Node UniqueName="[0-1014]HelpManualTest.ReadProjectTests.GetImages" />
+                    <Node UniqueName="[0-1016]HelpManualTest.ReadProjectTests.GetImagesBMP" />
+                    <Node UniqueName="[0-1015]HelpManualTest.ReadProjectTests.GetImagesTwoImages" />
+                    <Node UniqueName="[0-1010]HelpManualTest.ReadProjectTests.ImageBMP" />
+                    <Node UniqueName="[0-1009]HelpManualTest.ReadProjectTests.ImagePng" />
+                    <Node UniqueName="[0-1002]HelpManualTest.ReadProjectTests.ReadOneTopicProject" />
+                    <Node UniqueName="[0-1003]HelpManualTest.ReadProjectTests.ReadTopicList" />
+                    <Node UniqueName="[0-1007]HelpManualTest.ReadProjectTests.SimpleText2Wiki" />
+                    <Node UniqueName="[0-1005]HelpManualTest.ReadProjectTests.TopicHeader" />
+                    <Node UniqueName="[0-1004]HelpManualTest.ReadProjectTests.TopicID" />
+                    <Node UniqueName="[0-1006]HelpManualTest.ReadProjectTests.TopicNode" />
+                    <Node UniqueName="[0-1008]HelpManualTest.ReadProjectTests.ДваПараграфа2Wiki" />
+                  </Nodes>
+                </Node>
+                <Node UniqueName="[0-1044]HelpManualTest.TableOfContent" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-1045]HelpManualTest.TableOfContent.Содержание" />
+                  </Nodes>
+                </Node>
+                <Node UniqueName="[0-1019]HelpManualTest.WikiSyncTests" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-1021]HelpManualTest.WikiSyncTests.DeletePage" />
+                    <Node UniqueName="[0-1022]HelpManualTest.WikiSyncTests.ExistingPage" />
+                    <Node UniqueName="[0-1023]HelpManualTest.WikiSyncTests.ImagePage" />
+                    <Node UniqueName="[0-1024]HelpManualTest.WikiSyncTests.ImagePageBMP" />
+                    <Node UniqueName="[0-1020]HelpManualTest.WikiSyncTests.SimpleProject" />
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+      </Nodes>
+    </Node>
+  </Nodes>
+</VisualState>
