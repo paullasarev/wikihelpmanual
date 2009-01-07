@@ -1,0 +1,607 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="PageProperties.xsl" ?>
+<helpproject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="helpproject.xsd">
+  <map id="table-of-contents">
+    <topicref id="396028227929848" type="topic" modified="2008-06-03T14:47:29.247Z" icon="0" build="ALL" status="complete" href="Курсив"><caption translate="true">Курсив</caption></topicref>
+    <topicref id="396026117572176" type="topic" modified="2008-06-03T15:33:14.649Z" icon="0" build="ALL" status="complete" href="Подчеркивание"><caption translate="true">Подчеркивание</caption></topicref>
+    <topicref id="396033973704928" type="topic" modified="2008-06-04T12:23:46.637Z" icon="0" build="ALL" status="complete" href="Подчеркивание2"><caption translate="true">Подчеркивание</caption></topicref>
+    <topicref id="396025917982145" type="topic" modified="2008-06-03T15:59:15.120Z" icon="0" build="ALL" status="complete" href="ЖирныйКурсив"><caption translate="true">ЖирныйКурсив</caption></topicref>
+    <topicref id="396026860812962" type="topic" modified="2008-06-03T15:26:09.693Z" icon="0" build="ALL" status="complete" href="Жирный"><caption translate="true">Жирный</caption></topicref>
+    <topicref id="396026336066122" type="topic" modified="2008-06-03T15:05:22.894Z" icon="0" build="ALL" status="complete" href="Ссылка"><caption translate="true">Ссылка</caption></topicref>
+    <topicref id="396036445285981" type="topic" modified="2008-06-04T12:40:48.998Z" icon="0" build="ALL" status="complete" href="ВнешняяСсылка"><caption translate="true">ВнешняяСсылка</caption></topicref>
+    <topicref id="396018154913335" type="topic" modified="2008-06-02T15:26:03.355Z" icon="0" build="ALL" status="complete" href="ДваПараграфа"><caption translate="true">ДваПараграфа</caption></topicref>
+    <topicref id="387443545551882" type="topic" modified="2007-06-05T17:19:12.925Z" icon="0" build="ALL" status="complete" href="Объектысистемы"><caption translate="true">Объекты системы</caption></topicref>
+    <topicref id="396026462253249" type="topic" modified="2008-06-03T10:21:28.601Z" icon="0" build="ALL" status="complete" href="Изображение_PNG"><caption translate="true">Изображение PNG</caption></topicref>
+    <topicref id="396035784901662" type="topic" modified="2008-06-04T09:41:45.491Z" icon="0" build="ALL" status="complete" href="ИзображениеBMP"><caption translate="true">Изображение BMP</caption></topicref>
+    <topicref id="396025515754180" type="topic" modified="2008-06-03T12:48:58.639Z" icon="0" build="ALL" status="complete" href="Два_изображения_PNG"><caption translate="true">Два изображения PNG</caption></topicref>
+    <topicref id="396015984020340" type="topic" modified="2008-06-02T14:39:10.485Z" icon="0" build="ALL" status="complete" href="SimpleText"><caption translate="true">SimpleText</caption></topicref>
+    <topicref id="387443571821004" type="topic" modified="2007-06-06T16:32:51.488Z" icon="0" build="ALL" status="complete" href="Терминыиопределения"><caption translate="true">Термины и определения</caption></topicref>
+    <topicref id="396026599526894" type="topic" modified="2008-06-03T16:01:03.221Z" icon="0" build="ALL" status="complete" href="ПростойСписок"><caption translate="true">ПростойСписок</caption></topicref>
+    <topicref id="396028103738921" type="topic" modified="2008-06-03T16:27:06.840Z" icon="0" build="ALL" status="complete" href="НумерованныйСписок"><caption translate="true">НумерованныйСписок</caption></topicref>
+    <topicref id="396027187172440" type="topic" modified="2008-06-03T16:33:46.345Z" icon="0" build="ALL" status="complete" href="ВложенныйСписок"><caption translate="true">ВложенныйСписок</caption></topicref>
+    <topicref id="394875945905" type="topic" modified="2008-06-03T16:52:55.272Z" icon="0" build="ALL" status="complete" href="ВложенныйНумерованныйСписок"><caption translate="true">ВложенныйНумерованныйСписок</caption></topicref>
+    <topicref id="396028387701486" type="topic" modified="2008-06-03T16:55:28.649Z" icon="0" build="ALL" status="complete" href="ВыделениеВСписке"><caption translate="true">ВыделениеВСписке</caption></topicref>
+    <topicref id="396026580789827" type="topic" modified="2008-06-03T17:01:08.294Z" icon="0" build="ALL" status="complete" href="ПростаяТаблица"><caption translate="true">ПростаяТаблица</caption></topicref>
+    <topicref id="396028786280080" type="topic" modified="2008-06-03T17:32:31.823Z" icon="0" build="ALL" status="complete" href="ВыравниваниеЯчеекВТаблице"><caption translate="true">ВыравниваниеЯчеекВТаблице</caption></topicref>
+    <topicref id="396034165708227" type="topic" modified="2008-06-04T09:31:29.243Z" icon="0" build="ALL" status="complete" href="Подразделы"><caption translate="true">Подразделы</caption></topicref>
+    <topicref id="396035565687202" type="topic" modified="2008-06-04T12:36:04.845Z" icon="0" build="ALL" status="complete" href="ПустойЗаголовок"><caption translate="true">ПустойЗаголовок</caption></topicref>
+    <topicref id="396036392760742" type="topic" modified="2008-06-04T14:15:44.585Z" icon="0" build="ALL" status="complete" href="СкобкиВЗаголовке"><caption translate="true">Скобки &lt;в заголовке&gt;</caption></topicref>
+    <topicref id="396037398003264" type="topic" modified="2008-06-04T14:44:02.887Z" icon="0" build="ALL" status="complete" href="ТаблицаСклад"><caption translate="true">Таблица Склад</caption></topicref>
+    <topicref id="396037568577711" type="topic" modified="2008-06-04T14:53:36.366Z" icon="0" build="ALL" status="complete" href="ТаблицаДваПараграфаВЯчейке"><caption translate="true">ТаблицаДваПараграфаВЯчейке</caption></topicref>
+    <topicref id="396035738510830" type="topic" modified="2008-06-04T15:14:28.816Z" icon="0" build="ALL" status="complete"><caption translate="true">Раздел 1</caption>
+      <topicref id="396038374091491" type="topic" modified="2008-06-04T15:15:19.730Z" icon="0" build="ALL" status="complete" href="Подраздел1"><caption translate="true">Подраздел 1</caption></topicref>
+    </topicref>
+  </map>
+  <map id="invisible-topics">
+  </map>
+  <topics>
+    <topic id="SimpleText" modified="2008-06-02T14:39:58.176Z" target="Main" helpcontext="2903">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">SimpleText</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Вот он, простой текст.</text></para>
+      </body>
+    </topic>
+    <topic id="ВложенныйНумерованныйСписок" modified="2008-06-03T16:54:16.089Z" target="Main" helpcontext="2915">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ВложенныйНумерованныйСписок</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Вложенный нумерованный список:</text></para>
+        <list type="ol" listtype="decimal" formatstring="%0:s." format-font="Verdana" format-charset="RUSSIAN_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal">
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Пункт 1</text></li>
+          <list type="ol" listtype="decimal" formatstring="%0:s.%1:s." format-font="Verdana" format-charset="RUSSIAN_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal">
+            <li styleclass="Normal"><text styleclass="Normal" translate="true">Пункт 1.1</text></li>
+            <li styleclass="Normal"><text styleclass="Normal" translate="true">Пункт 1.2</text></li>
+          </list>
+        </list>
+        <list type="ol" listtype="decimal" formatstring="%0:s." format-font="Verdana" format-charset="RUSSIAN_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal">
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Пункт 2</text></li>
+        </list>
+      </body>
+    </topic>
+    <topic id="ВложенныйСписок" modified="2008-06-03T16:50:07.566Z" target="Main" helpcontext="2914">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ВложенныйСписок</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Вложенный список:</text></para>
+        <list type="ul" listtype="bullet" formatstring="·" format-font="Symbol" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal">
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Пункт 1</text></li>
+          <list type="ul" listtype="bullet" formatstring="§" format-font="Wingdings" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal">
+            <li styleclass="Normal"><text styleclass="Normal" translate="true">Пункт 1.1</text></li>
+            <li styleclass="Normal"><text styleclass="Normal" translate="true">Пункт 1.2</text></li>
+          </list>
+        </list>
+        <list type="ul" listtype="bullet" formatstring="·" format-font="Symbol" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal">
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Пункт 2</text></li>
+        </list>
+      </body>
+    </topic>
+    <topic id="ВнешняяСсылка" modified="2008-06-04T12:46:24.409Z" target="Main" helpcontext="2923">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ВнешняяСсылка</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Это внешняя ссылка </text><link displaytype="text" defaultstyle="true" type="weblink" href="http://www.kint.ru" target="_blank" styleclass="Normal" translate="true">КИНТ</link></para>
+      </body>
+    </topic>
+    <topic id="ВыделениеВСписке" modified="2008-06-03T16:56:01.713Z" target="Main" helpcontext="2916">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ВыделениеВСписке</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Список:</text></para>
+        <list type="ul" listtype="bullet" formatstring="·" format-font="Symbol" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal">
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Пункт с </text><text styleclass="Normal" style="font-weight:bold; " translate="true">выделением</text></li>
+        </list>
+      </body>
+    </topic>
+    <topic id="ВыравниваниеЯчеекВТаблице" modified="2008-06-03T17:32:58.746Z" target="Main" helpcontext="2918">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ВыравниваниеЯчеекВТаблице</text></para>
+        </header>
+        <para styleclass="Normal"><table rowcount="2" colcount="3" cellpadding="0px" cellspacing="0px" style="border-width:2px; border-spacing:0px; border-collapse:collapse; cell-border-width:2px; border-color:#000000; border-style:solid;">
+          <tr style="vertical-align:top">
+            <td style="width:162px; border-width:2px; border-color:#000000; border-style:solid;">
+              <para styleclass="Normal" style="text-align:center; "><text styleclass="Normal" translate="true">Ячейка 1.1</text></para>
+            </td>
+            <td style="width:255px; border-width:2px; border-color:#000000; border-style:solid;">
+              <para styleclass="Normal" style="text-align:center; "><text styleclass="Normal" translate="true">Ячейка 1.2</text></para>
+            </td>
+            <td style="width:273px; border-width:2px; border-color:#000000; border-style:solid;">
+              <para styleclass="Normal"><text styleclass="Normal" translate="true">Ячейка 1.3</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="width:162px; border-width:2px; border-color:#000000; border-style:solid;">
+              <para styleclass="Normal" style="text-align:right; "><text styleclass="Normal" translate="true">Ячейка 2.1</text></para>
+            </td>
+            <td style="width:255px; border-width:2px; border-color:#000000; border-style:solid;">
+              <para styleclass="Normal" style="text-align:right; "><text styleclass="Normal" translate="true">Ячейка 2.2</text></para>
+            </td>
+            <td style="width:273px; border-width:2px; border-color:#000000; border-style:solid;">
+              <para styleclass="Normal"><text styleclass="Normal" translate="true">Ячейка 2.3</text></para>
+            </td>
+          </tr>
+        </table></para>
+      </body>
+    </topic>
+    <topic id="Два_изображения_PNG" modified="2008-06-03T12:50:06.296Z" target="Main" helpcontext="2906">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Два изображения PNG</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Enter topic text here.</text></para>
+        <para styleclass="Normal"><image src="button_main.gif" scale="100.00%" styleclass="Image Caption"></image></para>
+        <para styleclass="Normal"></para>
+        <para styleclass="Normal"><image src="button_next.gif" scale="100.00%" styleclass="Image Caption"></image></para>
+        <para styleclass="Normal"></para>
+      </body>
+    </topic>
+    <topic id="ДваПараграфа" modified="2008-06-02T15:29:11.041Z" target="Main" helpcontext="2904">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ДваПараграфа</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Первый параграф</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Второй параграф</text></para>
+      </body>
+    </topic>
+    <topic id="Жирный" modified="2008-06-03T15:30:24.780Z" target="Main" helpcontext="2909">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Жирный</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Это </text><text styleclass="Normal" style="font-weight:bold; " translate="true">жирный</text><text styleclass="Normal" translate="true"> текст.</text></para>
+      </body>
+    </topic>
+    <topic id="ЖирныйКурсив" modified="2008-06-03T15:59:18.953Z" target="Main" helpcontext="2911">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ЖирныйКурсив</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Это </text><text styleclass="Normal" style="font-weight:bold; font-style:italic; " translate="true">жирный курсив</text></para>
+      </body>
+    </topic>
+    <topic id="Изображение_PNG" modified="2008-06-03T11:30:17.109Z" target="Main" helpcontext="2905">
+      <body>
+        <header>
+          <para styleclass="Heading1" style="margin-top:0px; margin-bottom:0px; line-height:1.50; "><text styleclass="Heading1" translate="true">Изображение PNG</text></para>
+        </header>
+        <para styleclass="Normal"><image src="VistaRunAsAdmin.png" scale="100.00%" styleclass="Image Caption"></image><text styleclass="Normal" translate="true">simple </text><text styleclass="Normal" translate="true">text.</text></para>
+      </body>
+    </topic>
+    <topic id="ИзображениеBMP" modified="2008-06-04T09:43:37.588Z" target="Main" helpcontext="2920">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Изображение BMP</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Это изображение BMP: </text><image src="0001.bmp" scale="100.00%" styleclass="Image Caption"></image></para>
+      </body>
+    </topic>
+    <topic id="Курсив" modified="2008-06-03T15:06:35.829Z" target="Main" helpcontext="2907">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Курсив</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Выделение текста </text><text styleclass="Normal" style="font-style:italic; " translate="true">курсивом</text><text styleclass="Normal" style="font-style:normal; " translate="true">.</text></para>
+      </body>
+    </topic>
+    <topic id="НумерованныйСписок" modified="2008-06-03T16:27:33.455Z" target="Main" helpcontext="2913">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">НумерованныйСписок</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Это нумерованный список:</text></para>
+        <list type="ol" listtype="decimal" formatstring="%0:s." format-font="Verdana" format-charset="RUSSIAN_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal">
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Пункт 1</text></li>
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Пункт 2</text></li>
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Пункт 3</text></li>
+        </list>
+      </body>
+    </topic>
+    <topic id="Объектысистемы" modified="2007-08-09T17:28:01.120Z" target="Main" helpcontext="1000">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Объекты системы</text></para>
+        </header>
+        <para style="text-align:justify; text-indent:19px; margin-top:5px; "><text style="font-family:Verdana; font-size:9pt; color:#000000; " translate="true">Основными объектами программного комплекса &quot;Учет. Анализ. Управление&quot; являются:</text></para>
+        <list type="ul" listtype="bullet" formatstring="·" format-font="Symbol" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal">
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Справочники и &#160;классификаторы</text></li>
+        </list>
+        <list type="ul" listtype="bullet" formatstring="·" format-font="Symbol" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal">
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Константы</text></li>
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Документы</text></li>
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Обработки</text></li>
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Регистры</text></li>
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Отчеты</text></li>
+        </list>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Разумеется, что некоторые границы между данными определениями слегка размытые, т.к. во многих документах используются элементы обработок или отчетов, тем не менее попытаемся дать характеристику каждого объекта.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Справочник </text><text styleclass="Normal" translate="true">- хранилище информации, характеризующей тот или иной объект учета, будь то товар, сотрудник, бухгалтерский счет или статьи затрат. Справочник представлен в виде списка элементов, содержащих на одной или нескольких закладках определенные реквизиты. Элементы справочника могут быть представлены в виде иерархического списка, т.е. быть собранными в группы, которые в свою очередь входят в группы высшего порядка.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Классификатор </text><text styleclass="Normal" translate="true">- упрощенный вид справочника.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Константа</text><text styleclass="Normal" translate="true"> - установка системы, регулирующая параметры работы, определенная величина (сумма) или своего рода переключатель алгоритма расчета.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Документ </text><text styleclass="Normal" translate="true">- объект системы, предназначенный для фиксирования хозяйственной операции в программном комплексе. В самом простом варианте документ формирует проводки, используя элементы справочника и сумму, указанную в самом документе. Примером такого документа служит бухгалтерская справка, в которой указывается сумма, типовая операция (элемент справочника &quot;Типовые операции&quot;) и аналитику (элементы соответствующих справочников). Документы снабжены печатной формой, а во многих случаях и несколькими, как унифицированными, так и свободными.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Обработка </text><text styleclass="Normal" translate="true">- объект системы, предназначенный для фиксирования операций, параметры которых расчитываются на основании сформированных документов по определенному алгоритму. Классическим примером является расчет временных разниц, при применении на предприятии ПБУ-18, и одноименной обработки. Обычно обработка формирует бухгалтерскую справку и снабжена печатной формой. Кроме встроенных, система имеет возможность подключения внешних обработок, так называемых </text><text styleclass="Normal" style="font-weight:bold; " translate="true">модулей</text><text styleclass="Normal" translate="true">.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Регистр </text><text styleclass="Normal" translate="true">- объект системы, предназначенный для регистрации, систематизации и накопления данных по определенным ресурсам как по остаточному принципу, так и по движению. Регистры как таковые пользователю не видны, виден только итог, выводимый отчетами. Примерами регистров являются регистры &quot;Бухгалтерские счета&quot;,&quot; Реализация&quot;, &quot;Учет ОС и прочее.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Отчет </text><text styleclass="Normal" translate="true">- объект системы, предназначенный для вывода информации, полученной на основании данных регистров или их переработки. Отчеты снабжены печатными формами, унифицированными или свободными, и для формирования проводок не предназначены.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Как уже было сказано,часть функционала отчетов или обработок может использоваться в документах, поэтому отнесение объектов системы к той или иной категории слегка условно.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Более подробно об элементах системы будет изложено в соответствующих разделах.</text></para>
+        <para styleclass="Normal"></para>
+      </body>
+    </topic>
+    <topic id="Подраздел1" modified="2008-06-04T15:15:19.731Z" target="Main" helpcontext="2927">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Подраздел 1</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Enter topic text here.</text></para>
+      </body>
+    </topic>
+    <topic id="Подразделы" modified="2008-06-04T10:54:00.642Z" target="Main" helpcontext="2919">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text style="font-family:Arial; font-size:10pt; color:#000000; " translate="true">Подразделы</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Введение.</text></para>
+        <para styleclass="header2"><text styleclass="header2" translate="true">Подраздел 1</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Текст подраздела 1.</text></para>
+        <para><text styleclass="header2" translate="true">Подраздел 2</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Текст подраздела 2.</text></para>
+      </body>
+    </topic>
+    <topic id="Подчеркивание" modified="2008-06-03T15:42:45.723Z" target="Main" helpcontext="2910">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Подчеркивание</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Это </text><text styleclass="Normal" style="font-weight:normal; text-decoration:underline; " translate="true">подчеркивание</text><text styleclass="Normal" translate="true">.</text></para>
+      </body>
+    </topic>
+    <topic id="Подчеркивание2" modified="2008-06-04T12:23:46.648Z" target="Main" helpcontext="2921">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Подчеркивание</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Enter topic text here.</text></para>
+      </body>
+    </topic>
+    <topic id="ПростаяТаблица" modified="2008-06-03T17:29:32.123Z" target="Main" helpcontext="2917">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ПростаяТаблица</text></para>
+        </header>
+        <para styleclass="Normal"><table rowcount="2" colcount="3" cellpadding="0px" cellspacing="0px" style="border-width:2px; border-spacing:0px; border-collapse:collapse; cell-border-width:2px; border-color:#000000; border-style:solid;">
+          <tr style="vertical-align:top">
+            <td style="width:162px; border-width:2px; border-color:#000000; border-style:solid;">
+              <para styleclass="Normal"><text styleclass="Normal" translate="true">Ячейка 1.1</text></para>
+            </td>
+            <td style="width:255px; border-width:2px; border-color:#000000; border-style:solid;">
+              <para styleclass="Normal"><text styleclass="Normal" translate="true">Ячейка 1.2</text></para>
+            </td>
+            <td style="width:273px; border-width:2px; border-color:#000000; border-style:solid;">
+              <para styleclass="Normal"><text styleclass="Normal" translate="true">Ячейка 1.3</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="width:162px; border-width:2px; border-color:#000000; border-style:solid;">
+              <para styleclass="Normal"><text styleclass="Normal" translate="true">Ячейка 2.1</text></para>
+            </td>
+            <td style="width:255px; border-width:2px; border-color:#000000; border-style:solid;">
+              <para styleclass="Normal"><text styleclass="Normal" translate="true">Ячейка 2.2</text></para>
+            </td>
+            <td style="width:273px; border-width:2px; border-color:#000000; border-style:solid;">
+              <para styleclass="Normal"><text styleclass="Normal" translate="true">Ячейка 2.3</text></para>
+            </td>
+          </tr>
+        </table></para>
+      </body>
+    </topic>
+    <topic id="ПростойСписок" modified="2008-06-03T16:30:31.097Z" target="Main" helpcontext="2912">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ПростойСписок</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Это простой список:</text></para>
+        <list type="ul" listtype="bullet" formatstring="·" format-font="Verdana" format-charset="RUSSIAN_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal">
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Пункт 1</text></li>
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Пункт 2</text></li>
+          <li styleclass="Normal"><text styleclass="Normal" translate="true">Пункт 3</text></li>
+        </list>
+      </body>
+    </topic>
+    <topic id="ПустойЗаголовок" modified="2008-06-04T12:36:24.254Z" target="Main" helpcontext="2922">
+      <body>
+        <header>
+          <para styleclass="Heading1"></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Enter topic text here.</text></para>
+      </body>
+    </topic>
+    <topic id="СкобкиВЗаголовке" modified="2008-06-04T14:15:44.586Z" target="Main" helpcontext="2924">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Скобки &lt;в заголовке&gt;</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Enter topic text here.</text></para>
+      </body>
+    </topic>
+    <topic id="Ссылка" modified="2008-06-03T15:25:50.360Z" target="Main" helpcontext="2908">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Ссылка</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" translate="true">Далее идет ссылка курсив.</text><link displaytype="text" defaultstyle="true" type="topiclink" href="Курсив" styleclass="Normal" translate="true">Курсив</link><text styleclass="Normal" translate="true">&#32;</text><text styleclass="Normal" translate="true">Это все.</text></para>
+      </body>
+    </topic>
+    <topic id="ТаблицаДваПараграфаВЯчейке" modified="2008-06-04T14:54:58.544Z" target="Main" helpcontext="2926">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">ТаблицаДваПараграфаВЯчейке</text></para>
+        </header>
+        <para styleclass="Normal"><table rowcount="1" colcount="2" cellpadding="0px" cellspacing="0px" style="width:465px; border-width:1px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+          <tr style="vertical-align:top">
+            <td style="border-width:1px; border-color:#000000; border-style:solid;">
+              <para styleclass="Normal"><text styleclass="Normal" translate="true">ячейка 1</text></para>
+            </td>
+            <td style="border-width:1px; border-color:#000000; border-style:solid;">
+              <para styleclass="Normal"><text styleclass="Normal" translate="true">ячейка 2</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" translate="true">ячейка 2</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" translate="true">ячейка 2</text></para>
+            </td>
+          </tr>
+        </table></para>
+      </body>
+    </topic>
+    <topic id="ТаблицаСклад" modified="2008-06-04T14:53:15.800Z" target="Main" helpcontext="2925">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Таблица Склад</text></para>
+        </header>
+        <para style="text-align:center; "><table rowcount="22" colcount="2" cellpadding="1px" cellspacing="1px" style="width:100%; border-width:1px; cell-border-width:1px; border-color:#333399; border-style:raised-color;">
+          <thead style="vertical-align:top">
+            <td style="width:338px; height:18px; background-color:#6c92ff; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal" style="text-align:center; "><text styleclass="Normal" style="font-weight:bold; color:#ffffff; " translate="true">Путь к объекту</text></para>
+            </td>
+            <td style="width:338px; background-color:#6c92ff; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal" style="text-align:center; "><text styleclass="Normal" style="font-weight:bold; color:#ffffff; " translate="true">Наименование печатной формы</text></para>
+            </td>
+          </thead>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Журналы &gt; Накладные &gt; Приходные</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Накладная</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Складская накладная</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Ценники</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Закупочный акт</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Форма М-4</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Журналы &gt; Накладные &gt; Расходные</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Расходная накладная</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Накладная с сертификатами</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Накладная для склада</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Форма ТОРГ-12</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Товарный чек</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Товарно-транспортная накладная</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Расходная накладная Ф-12</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Накладная М-15</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Журналы &gt; Накладные &gt; Розничные</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Розничная накладная</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Товарный чек</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Журналы &gt; Накладные &gt; Складские накладные</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Журналы &gt; Накладные &gt; Накладные перемещения</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Накладная перемещения</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Акт передачи</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Накладная для склада</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Накладная</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Требование-накладная М-11</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Накладная М-15</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Журналы &gt; Накладные &gt; Возврат товара от покупателя</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Накладная на возврат товара</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Накладная для склада</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Счет-фактура</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Журналы &gt; Накладные &gt; Возврат товара (поставщикам)</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Накладная на возврат товара</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Товарно-транспортная накладная</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">ТОРГ-12</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Журналы &gt; Счета-фактуры &gt; Приходные</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Счет-фактура</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Накладная перемещения</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Ценники на товары</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Акт передачи</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Журналы &gt; Счета-фактуры &gt; Расходные</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Счет-фактура</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Журналы &gt; Учет ТМЦ, спецодежды &#160;&gt; Списание ТМЦ</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Списание ТМЦ</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Списание МБП (МБ-8)</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Требование-накладная (М-11)</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Журналы &gt; Учет ТМЦ, спецодежды &#160;&gt;Переоценка ТМЦ</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:normal; " translate="true">Переоценка ТМЦ</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Журналы &gt; Учет ТМЦ, спецодежды &#160;&gt; Передача спецодежды и спецоснастки в эксплуатацию</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Карточка учета малоценных и быстроизнашивающихся предметов (МБ-2)</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Журналы &gt; Учет ТМЦ, спецодежды &#160;&gt; Перемещение спецодежды и спецоснастки</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Перемещение хозинвентаря</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Отчеты &gt; Складской &#160;учет &gt; Товары на складе</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Остатки товаров</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Движение товаров за период</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Инвентаризационная опись ТМЦ</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Отчеты &gt; Складской &#160;учет &gt; Карточка товара</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Карточка товара</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Отчеты &gt; Складской &#160;учет &gt; Перемещение товаров</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Анализ перемещения товаров</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Отчеты &gt; Складской &#160;учет &gt; Зарезервированные товары</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Остатки</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Движение</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Отчеты &gt; Складской &#160;учет &gt; Учет товара в отрезках</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Остатки товаров в отрезках</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Отчеты &gt; Складской &#160;учет &gt; Сводный отчет по МОЛ</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Остатки товаров</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Движение товаров за период</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Инвентаризационная опись ТМЦ</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Отчеты &gt; Складской &#160;учет &gt; Анализ движения ТМЦ (сводный)</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:normal; " translate="true">Анализ движения ТМЦ (сводный)</text></para>
+            </td>
+          </tr>
+          <tr style="vertical-align:top">
+            <td style="vertical-align:top; width:450px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; font-style:italic; " translate="true">Отчеты &gt; Складской &#160;учет &gt; Учет спецодежды и спецоснастки</text></para>
+            </td>
+            <td style="vertical-align:top; width:467px; height:16px; border-width:1px; border-color:#333399; border-style:raised-color;">
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Остатки</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Движение</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Опись</text></para>
+              <para styleclass="Normal"><text styleclass="Normal" style="font-size:8pt; " translate="true">Инвентаризационная опись</text></para>
+            </td>
+          </tr>
+        </table></para>
+      </body>
+    </topic>
+    <topic id="Терминыиопределения" modified="2007-08-09T16:59:45.457Z" target="Main" helpcontext="2555">
+      <body>
+        <header>
+          <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Термины и определения</text></para>
+        </header>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">База данных</text><text styleclass="Normal" translate="true"> - совокупность текстовых и (или) цифровых данных, систематизированных по определенным правилам, предусматривающим общие принципы описания, хранения и манипулирования исходной информацией; объект авторского права. </text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Внешняя процедура (модуль)</text><text styleclass="Normal" translate="true"> - самостоятельная обработка, которая может быть запущена в процессе работы с комплексом &quot;Учет. Анализ. Управление&quot;.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Вход в систему</text><text styleclass="Normal" translate="true"> - процедура, обеспечивающая доступ к системе и идентифткацию известных ей (т.е. зарегистрированных) пользователей.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Журнал документов</text><text styleclass="Normal" translate="true"> - группа документов, имеющих общие реквизиты и отражающих сходные процессы. Все документы системы сгруппированы в журналы. Например, в журнале &quot;Платежные поручения&quot; отражаются документы &quot;Платежное поручение&quot;. </text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Ключ активации</text><text styleclass="Normal" translate="true"> - комбинация символов, необходимая для идентификации лицензионной копии программного обеспечения, дает право использовать новые релизы системы.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Контроль доступа </text><text styleclass="Normal" translate="true">- автоматическое отслеживание прав пользователя на просмотр, создание и изменение элементов справочников, документов и отчетов.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Контур</text><text styleclass="Normal" translate="true"> - комплекс журналов и элементов справочников, позволяющий реализовать набор функций.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Операция</text><text styleclass="Normal" translate="true"> - выполнение в рамках программного комплекса указанного пользователем действия с исходными данными. </text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Панель навигации</text><text styleclass="Normal" translate="true"> - инструмент для быстрого доступа к объектам конфигурации: справочникам, отчетам, обработкам, журналам документов. Любой объект конфигурации на панели навигации можно открыть двойным щелчком мыши в строке объекта.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Периодический реквизит</text><text styleclass="Normal" translate="true"> - реквизит, значение которого задается в пределах определенного срока. Наименования периодических реквизитов в системе выделяются синим цветом. При использовании данного реквизита в документе имеет значение дата документа.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Печатная форма (справочника, документа)</text><text styleclass="Normal" translate="true"> - установленный образец документа или справочника, шаблон для вывода на печать. Нередко подключение нескольких печатных форм к одному документу (в т.ч. унифицированных), а также подключение внешних (специализированных) печатных форм.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Проводка</text><text styleclass="Normal" translate="true"> - принятые в бухгалтерском учете обозначения дебетуемого и кредитуемого счетов и сумм в расчетных документах. После проведения документа данные по нему попадают в отчеты (если не выбрана функция &quot;Учитывать непроведенные документы&quot;)</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Программный комплекс</text><text styleclass="Normal" translate="true"> - совокупность объектов, данных, действий, тесно связанных и взаимодействующих между собой, образующих единую целостность. </text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Рабочий интервал</text><text styleclass="Normal" translate="true"> - временной интервал, данные по которому отражаются в журналах и используются при составлении отчетов.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Регистр правил</text><text styleclass="Normal" translate="true"> - блок обработки информации, который позволяет описать входную ситуацию и реакцию информационной системы в виде набора правил, каждое из которых задает значение детерминанта (описание входной ситуации, ключ выборки), и корня (результата). </text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Реквизиты</text><text styleclass="Normal" translate="true"> - составные элементы записей справочников и бухгалтерских документов, содержащие обязательные сведения, без которых бухгалтерские документы не могут служить основанием или подтверждением фактов хозяйственной деятельности. К сведениям, обязательно отражаемым в бухгалтерских документах, относятся: название документа, дата и место составления, содержание хозяйственной операции, сумма, количество и т.д.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Релиз</text><text styleclass="Normal" translate="true"> - версия системы. Каждая версия имеет свой порядковый номер, который можно просмотреть в константах системы. Номер релиза формируется автоматически, после установки очередного обновления. </text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Табличная часть (справочника, документа)</text><text styleclass="Normal" translate="true"> - таблица, которая содержит строки, характеризующие содержание данного справочника или документа. Например, табличная часть накладной на приход - это перечисление всех позиций товаров, оформляемых по данной накладной.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Точка актуальности</text><text styleclass="Normal" translate="true"> - дата до которой произведены расчеты регистров и граничная дата, до которой система выводит отчеты. Одновременно дата последнего документа, который произвел изменение информации в регистрах. Автоматически переносится при создании нового документа.</text></para>
+        <para styleclass="Normal"><text styleclass="Normal" style="font-weight:bold; " translate="true">Уровень вложенности</text><text styleclass="Normal" translate="true"> - определяет количество уровней, которые можно создать в иерархической системе (справочнике).</text></para>
+      </body>
+    </topic>
+  </topics>
+  <baggage>
+  </baggage>
+</helpproject>

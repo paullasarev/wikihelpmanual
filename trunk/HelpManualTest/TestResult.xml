@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="d:\DotNet\google\export\WikiHelpManual\HelpManualTest\Nunit.nunit" total="36" failures="0" not-run="0" date="2009-01-07" time="13:30:51">
+  <environment nunit-version="2.4.6.0" clr-version="2.0.50727.42" os-version="Microsoft Windows NT 5.1.2600 Service Pack 2" platform="Win32NT" cwd="d:\DotNet\google\export\WikiHelpManual\HelpManualTest" machine-name="LAZO" user="Павел" user-domain="LAZO" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite name="d:\DotNet\google\export\WikiHelpManual\HelpManualTest\Nunit.nunit" success="True" time="1.688" asserts="0">
+    <results>
+      <test-suite name="d:\DotNet\google\export\WikiHelpManual\HelpManualTest\bin\Debug\HelpManualTest.dll" success="True" time="1.656" asserts="0">
+        <results>
+          <test-suite name="HelpManualTest" success="True" time="1.625" asserts="0">
+            <results>
+              <test-suite name="PageProperties" success="True" time="1.016" asserts="0">
+                <results>
+                  <test-case name="HelpManualTest.PageProperties.ВложенныйНумерованныйСписок" executed="True" success="True" time="0.703" asserts="1" />
+                  <test-case name="HelpManualTest.PageProperties.ВложенныйСписок" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.PageProperties.ВнешняяСсылка" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.PageProperties.ВыделениеВСписке" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.PageProperties.ВыравниваниеЯчеекВТаблице" executed="True" success="True" time="0.031" asserts="1" />
+                  <test-case name="HelpManualTest.PageProperties.Жирный" executed="True" success="True" time="0.000" asserts="1" />
+                  <test-case name="HelpManualTest.PageProperties.ЖирныйКурсив" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.PageProperties.Курсив" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.PageProperties.НумерованныйСписок" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.PageProperties.ОбъектыCистемы" executed="True" success="True" time="0.016" asserts="0" />
+                  <test-case name="HelpManualTest.PageProperties.Подразделы" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.PageProperties.Подчеркивание" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.PageProperties.ПростаяТаблица" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.PageProperties.ПростойСписок" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.PageProperties.ПустойЗаголовок" executed="True" success="True" time="0.000" asserts="0" />
+                  <test-case name="HelpManualTest.PageProperties.СкобкиВЗаголовоке" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.PageProperties.Ссылка" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.PageProperties.ТаблицаДваПараграфаВЯчейке" executed="True" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite name="ReadProjectTests" success="True" time="0.531" asserts="0">
+                <results>
+                  <test-case name="HelpManualTest.ReadProjectTests.AddImagePrefixBMP" executed="True" success="True" time="0.000" asserts="1" />
+                  <test-case name="HelpManualTest.ReadProjectTests.AddImagePrefixPNG" executed="True" success="True" time="0.063" asserts="1" />
+                  <test-case name="HelpManualTest.ReadProjectTests.GetImageFileName" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.ReadProjectTests.GetImageFileName_ShortFilename" executed="True" success="True" time="0.000" asserts="2" />
+                  <test-case name="HelpManualTest.ReadProjectTests.GetImageFileNameBMP" executed="True" success="True" time="0.141" asserts="2" />
+                  <test-case name="HelpManualTest.ReadProjectTests.GetImages" executed="True" success="True" time="0.031" asserts="1" />
+                  <test-case name="HelpManualTest.ReadProjectTests.GetImagesBMP" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.ReadProjectTests.GetImagesTwoImages" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.ReadProjectTests.ImageBMP" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.ReadProjectTests.ImagePng" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.ReadProjectTests.ReadOneTopicProject" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.ReadProjectTests.ReadTopicList" executed="True" success="True" time="0.016" asserts="2" />
+                  <test-case name="HelpManualTest.ReadProjectTests.SimpleText2Wiki" executed="True" success="True" time="0.016" asserts="1" />
+                  <test-case name="HelpManualTest.ReadProjectTests.TopicHeader" executed="True" success="True" time="0.000" asserts="1" />
+                  <test-case name="HelpManualTest.ReadProjectTests.TopicID" executed="True" success="True" time="0.000" asserts="2" />
+                  <test-case name="HelpManualTest.ReadProjectTests.TopicNode" executed="True" success="True" time="0.000" asserts="1" />
+                  <test-case name="HelpManualTest.ReadProjectTests.ДваПараграфа2Wiki" executed="True" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite name="TableOfContent" success="True" time="0.047" asserts="0">
+                <results>
+                  <test-case name="HelpManualTest.TableOfContent.Содержание" executed="True" success="True" time="0.016" asserts="2" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
